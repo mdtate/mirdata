@@ -1,0 +1,16 @@
+Package: miRData
+Type: Package
+Title: miRNA data
+Version: 0.6.1
+Date: 2016-12-01
+Authors@R: c(person("Maria", "Vila-Casadesús", role = c("aut", "cre"), email = "maria.vila@ciberehd.org"),
+ person("Juanjo", "Lozano", role = c("aut","ths"), email= "juanjo.lozano@ciberehd.org"))
+Author: Maria Vila-Casadesús, Juanjo Lozano
+Maintainer: Maria Vila-Casadesús <maria.vila@ciberehd.org>
+Description: Data needed for miRComb package.
+License: GPL-3
+Depends: R (>= 3.0)
+Suggests: miRComb
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2016-10-24 15:06:27 UTC; maria
