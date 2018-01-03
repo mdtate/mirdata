@@ -35,4 +35,6 @@ https://www.r-bloggers.com/building-packages-in-r-part-1-the-skeleton/
 
 https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf
 
+For saving Rda files exclusively, you can also use save() function (https://thepracticalr.wordpress.com/2017/04/27/load-save-and-rda-files/)
+
 
