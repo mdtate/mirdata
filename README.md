@@ -20,17 +20,14 @@ Otherwise, you can also download the source files from sourceforge.net: https://
 
 ## How to update miRComb and miRData packages.
 
-MiRComb and miRData code is stored at GitHub: https://github.com/mariavica/mircomb ; https://github.com/mariavica/mirdata
+MiRComb and miRData code is stored at GitHub: https://github.com/mariavica/mircomb; https://github.com/mariavica/mirdata.
 
-In the Session Info section of the Vignette you can check the exact versions of the packages used.
+In the Session Info section of the Vignette you can check the exact versions of the packages used. If you are a GitHub user, you can fork the repository and make changes on a separate branch. These changes can be later incorporated to the main repository with a pull request.
 
-How to update the packages through GitHub (recommended):
-If you've a GitHub user, you can fork the repository and make changes on a separate branch. These changes can be later incorporated to the main repository with a pull request.
-
-Full guide: https://guides.github.com/activities/hello-world/
+Brief guide to GitHub: https://guides.github.com/activities/hello-world/
 
 
-Tips:
+### Tips:
 
 package.skeleton() function will help you to create any *Rda and *Rd file.
 https://www.r-bloggers.com/building-packages-in-r-part-1-the-skeleton/
