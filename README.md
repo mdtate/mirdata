@@ -22,7 +22,7 @@ Otherwise, you can also download the source files from sourceforge.net: https://
 
 MiRComb and miRData code is stored at GitHub: https://github.com/mariavica/mircomb; https://github.com/mariavica/mirdata.
 
-In the Session Info section of the Vignette you can check the exact versions of the packages used. If you are a GitHub user, you can fork the repository and make changes on a separate branch. These changes can be later incorporated to the main repository with a pull request.
+In the Session Info section of the Vignette (http://mircomb.sourceforge.net/documentation.html) you can check the exact versions of the packages used on the last version. If you are a GitHub user, you can fork the repository and make changes on a separate branch. These changes can be later incorporated to the main repository with a pull request.
 
 Basic guide to GitHub users: https://guides.github.com/activities/hello-world/.
 
