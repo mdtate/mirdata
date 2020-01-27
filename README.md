@@ -15,8 +15,6 @@ library(githubinstall)
 gh_install_packages("miRData", ref = "master", build_vignettes = TRUE)
 ```
 
-Otherwise, you can also download the source files from sourceforge.net: https://sourceforge.net/projects/mircomb/files/?source=navbar
-
 
 ## How to update miRComb and miRData packages.
 
