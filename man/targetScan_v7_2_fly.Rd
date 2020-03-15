@@ -2,10 +2,10 @@
 \alias{targetScan_v7_2_fly}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+targetScan_v7_2_fly
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+targetScan_v7_2_fly data
 }
 \usage{data("targetScan_v7_2_fly")}
 \format{
